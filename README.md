@@ -17,7 +17,7 @@
         알바폼: 알바 구인구직 플랫폼  
     </h1>
     <p />
-    <a href="https://albaform.jiin-seok.net">바로가기</a>
+    <a href="https://albaform.usejiin.link">바로가기</a>
     <p />
 </div>
 
