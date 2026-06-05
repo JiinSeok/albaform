@@ -80,6 +80,10 @@ body {
   overflow-x: hidden;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   color: #1f1f1f;
   background: #fff;
